@@ -1,12 +1,10 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_left" id="69" x="171" y="137">
+  <block type="movement_reverse" id="109" x="192" y="142">
     <next>
-      <block type="movement_forward" id="79">
+      <block type="movement_left" id="119">
         <next>
-          <block type="movement_right" id="89">
-            <next>
-              <block type="movement_forward" id="99"></block>
-            </next>
+          <block type="comment_comment" id="130">
+            <field name="TEXT">4</field>
           </block>
         </next>
       </block>
